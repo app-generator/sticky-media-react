@@ -1,6 +1,6 @@
 {
     "name": "sticky-media-react",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Simple React Library for Sticky Media content",
     "main": "./dist/index.js",
     "scripts": {
