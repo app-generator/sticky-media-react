@@ -1,7 +1,7 @@
 {
-    "name": "sticky-media",
-    "version": "0.0.16",
-    "description": "Simple Vanilla JS library for Sticky Media content",
+    "name": "sticky-media-react",
+    "version": "0.0.0",
+    "description": "Simple React Library for Sticky Media content",
     "main": "./dist/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,10 +18,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/sticky-media.git"
+        "url": "https://github.com/app-generator/sticky-media-react.git"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/sticky-media/issues"
+        "url": "https://github.com/app-generator/sticky-media-react/issues"
     },
     "homepage": "https://appseed.us",
     "dependencies": {
